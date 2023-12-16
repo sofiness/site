@@ -1,5 +1,7 @@
 [<-- к содержанию](readme.md)
 
+### git config
+----
 Команда настройки параметров для Git на вашем компьютере.
 
 После установки Git на компьютер следует настроить Git. Это необходимо для того, чтобы все Ваши действия были подписаны, а также для привязки к GitHub. 
@@ -9,6 +11,6 @@
 ```
 git config --global user.name "Your Name"
 
-git config --global user.email "your_email@whatever.com"
+git config --global user.email "your_email@example.com"
 ```
-Вместо "Your Name" необходимо ввести своё имя в кавычках, а вместо "your_email@whatever.com" в кавычках необходимо ввести свою электронную почту.
+Вместо "Your Name" необходимо ввести своё имя в кавычках, а вместо "your_email@example.com" в кавычках необходимо ввести свою электронную почту.

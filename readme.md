@@ -5,9 +5,11 @@ LICENSE: [MIT](license.md)
 ![git-logo](/assets/Git-logo.svg.png)
 ---
 
-### Содержание:
-1. [git config](config.md)
-2. [git add](add.md)
+### Основные команды Git:
+   * [git config](config.md)
+   * [git init](init.md)
+   * [git add](add.md)
+   *
 
 ---
 
