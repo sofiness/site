@@ -9,7 +9,7 @@ LICENSE: [MIT](license.md)
    * [git config](config.md)
    * [git init](init.md)
    * [git add](add.md)
-   *
+   * [git commit]()
 
 ---
 
