@@ -10,12 +10,13 @@ LICENSE: [MIT](license.md)
        
    * [git init](init.md)
    * [git clone](clone.md)
-   * [git remote add origin]()
+   * [git remote add origin](remote.md)
  
 * **Работа с сохранениями:**
    
    * [git add](add.md)
    * [git commit](commit.md)
+   * [git status]()
    
 * **Настройка Git**
    
