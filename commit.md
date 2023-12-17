@@ -1,6 +1,6 @@
 [<-- К содержанию](readme.md)
 
-### git commit
+## git commit
 
 ---
 
