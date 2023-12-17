@@ -6,10 +6,13 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Основные команды Git:
-   * [git config](config.md)
+* **Работа с репозиторием:**
+       
    * [git init](init.md)
+   * [git clone](clone.md)
    * [git add](add.md)
-   * [git commit]()
+   * [git commit](commit.md)
+   * [git config](config.md)
 
 ---
 
