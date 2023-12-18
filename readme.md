@@ -18,7 +18,7 @@ LICENSE: [MIT](LICENCE.md)
    * [git commit](commit.md)
    * [git status](status.md)
    * [git pull](pull.md)
-   * [git push]()
+   * [git push](push.md)
    
 * **Настройка Git**
    
